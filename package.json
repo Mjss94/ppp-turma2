@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "Maria Jaciara",
   "license": "ISC",
-  "description": "Cronograma capilar - projeto de testes do PPP Turma 2"
+  "description": "Cronograma capilar - projeto de testes do PPP Turma 2",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "swagger-ui-express": "^5.0.1"
+  }
 }
